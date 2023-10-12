@@ -1,7 +1,7 @@
 
 
-<p style="text-align:center; margin-bottom: 10px">
-    <img src="https://github.com/danhenrydev/danhenrydev/blob/main/header.png?raw=true" alt="Hey, I'm Dan!" style="border-radius: 10px; margin-bottom:10px">
+<p align="center">
+    <img src="https://github.com/danhenrydev/danhenrydev/blob/main/header.png?raw=true" alt="Hey, I'm Dan!">
     <img height="16" width="16" style="margin-bottom:-3px; margin-right: 5px" src="https://cdn.simpleicons.org/twitter/" /><a href="https://twitter.com/danhenrydev">@danhenrydev</a> &nbsp;&nbsp; | &nbsp;&nbsp;  
     <img height="16" width="16" style="margin-bottom:-3px; margin-right: 5px" src="https://cdn.simpleicons.org/instagram/" /><a href="https://instagram.com/danhenrydev">@danhenrydev</a> &nbsp;&nbsp; | &nbsp;&nbsp;  
     <img height="16" width="16" style="margin-bottom:-3px; margin-right: 5px" src="https://cdn.simpleicons.org/linkedin/" /><a href="https://www.linkedin.com/in/danhenrydev/">@danhenrydev</a>
