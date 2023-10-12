@@ -1,10 +1,10 @@
 
 
 <p align="center">
-    <img src="https://github.com/danhenrydev/danhenrydev/blob/main/header.png?raw=true" alt="Hey, I'm Dan!">
-    <img height="16" width="16" style="margin-bottom:-3px; margin-right: 5px" src="https://cdn.simpleicons.org/twitter/" /><a href="https://twitter.com/danhenrydev">@danhenrydev</a> &nbsp;&nbsp; | &nbsp;&nbsp;  
-    <img height="16" width="16" style="margin-bottom:-3px; margin-right: 5px" src="https://cdn.simpleicons.org/instagram/" /><a href="https://instagram.com/danhenrydev">@danhenrydev</a> &nbsp;&nbsp; | &nbsp;&nbsp;  
-    <img height="16" width="16" style="margin-bottom:-3px; margin-right: 5px" src="https://cdn.simpleicons.org/linkedin/" /><a href="https://www.linkedin.com/in/danhenrydev/">@danhenrydev</a>
+    <img src="https://github.com/danhenrydev/danhenrydev/blob/main/header.png?raw=true" alt="Hey, I'm Dan!"><br><br>
+    <img height="16" width="16" src="https://cdn.simpleicons.org/twitter/" />&nbsp;&nbsp;<a href="https://twitter.com/danhenrydev">@danhenrydev</a> &nbsp;&nbsp; | &nbsp;&nbsp;  
+    <img height="16" width="16" src="https://cdn.simpleicons.org/instagram/" />&nbsp;&nbsp;<a href="https://instagram.com/danhenrydev">@danhenrydev</a> &nbsp;&nbsp; | &nbsp;&nbsp;  
+    <img height="16" width="16" src="https://cdn.simpleicons.org/linkedin/" />&nbsp;&nbsp;<a href="https://www.linkedin.com/in/danhenrydev/">@danhenrydev</a>
 </p>
 
 ## About Me
